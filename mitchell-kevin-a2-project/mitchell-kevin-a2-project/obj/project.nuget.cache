@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfODcwMqwsM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mitck\\source\\repos\\mitchell-kevin-a2-project\\mitchell-kevin-a2-project\\mitchell-kevin-a2-project\\mitchell-kevin-a2-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mitck\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
